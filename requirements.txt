@@ -1,0 +1,6 @@
+pypdf
+langchain_community
+ipykernel 
+python_dotenv
+langchain_community
+docarray
